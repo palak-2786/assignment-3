@@ -1,0 +1,53 @@
+
+    body{
+        display: flex;
+        background-color:white;
+        justify-content: center;
+        height: 100vh;
+        align-items: center;
+    }
+
+.sub1{
+    color:blue;
+    font-weight: bold;
+}
+.sub2{
+    color: orange;
+    font-weight: bold;
+}
+.sub3{
+    color:rgb(119, 40, 193);
+    font-weight: bold;
+}
+.sub4{
+    color:green; 
+     font-weight: bold;
+}
+.sub5{
+    color: red;
+    font-weight: bold;
+}
+.seminar{
+    font-weight: bold;
+    text-align: center;
+}
+.c{
+    font-weight: bold;
+}
+.lab{
+    font-weight: bold;
+    text-align: center;
+}
+.swa{
+    color:red;
+}
+th,td,table{
+    border:2px solid black;
+}
+.lunch{
+    writing-mode:horizontal-tb;
+}
+caption{
+    font-weight: bold;
+    font-size:30px;
+}
